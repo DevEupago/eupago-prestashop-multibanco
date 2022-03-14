@@ -1,1 +1,0 @@
-# euPago - Multibanco
